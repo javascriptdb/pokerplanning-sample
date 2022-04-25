@@ -19,7 +19,7 @@
     }
 </script>
 
-<section class="page">
+<section class="page pt-8">
     <form class="bg-white space-y-8 divide-y divide-gray-200 shadow p-6">
         <div class="space-y-8 divide-y divide-gray-200">
             <div>
